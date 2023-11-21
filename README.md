@@ -9,8 +9,8 @@
 
 **Langs and data**
 
-![Java](https://img.shields.io/badge/java-333333?style=flat&logo=openjdk&logoColor=007396)
-![Ruby](https://img.shields.io/badge/-ruby-333333?style=flat&logo=ruby&logoColor=#CC342D)
+![Java](https://img.shields.io/badge/java-333333?style=flat&logo=openjdk)
+![Ruby](https://img.shields.io/badge/-ruby-333333?style=flat&logo=ruby)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
