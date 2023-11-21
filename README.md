@@ -34,7 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Intellij IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Mermaid](https://img.shields.io/badge/-Mermaid-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWVybWFpZDwvdGl0bGU+PHBhdGggZD0iTTIzLjk5IDIuMTE1QTEyLjIyMyAxMi4yMjMgMCAwIDAgMTIgMTAuMTQ5IDEyLjIyMyAxMi4yMjMgMCAwIDAgLjAxIDIuMTE1YTEyLjIzIDEyLjIzIDAgMCAwIDUuMzIgMTAuNjA0IDYuNTYyIDYuNTYyIDAgMCAxIDIuODQ1IDUuNDIzdjMuNzU0aDcuNjV2LTMuNzU0YTYuNTYxIDYuNTYxIDAgMCAxIDIuODQ0LTUuNDIzIDEyLjIyMyAxMi4yMjMgMCAwIDAgNS4zMi0xMC42MDRaIi8+PC9zdmc+)
+![Mermaid](https://img.shields.io/badge/-Mermaid-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWVybWFpZDwvdGl0bGU+PHBhdGggZD0iTTIzLjk5IDIuMTE1QTEyLjIyMyAxMi4yMjMgMCAwIDAgMTIgMTAuMTQ5IDEyLjIyMyAxMi4yMjMgMCAwIDAgLjAxIDIuMTE1YTEyLjIzIDEyLjIzIDAgMCAwIDUuMzIgMTAuNjA0IDYuNTYyIDYuNTYyIDAgMCAxIDIuODQ1IDUuNDIzdjMuNzU0aDcuNjV2LTMuNzU0YTYuNTYxIDYuNTYxIDAgMCAxIDIuODQ0LTUuNDIzIDEyLjIyMyAxMi4yMjMgMCAwIDAgNS4zMi0xMC42MDRaIi8+PC9zdmc+&logoColor=white)
 ![Vitepress](https://img.shields.io/badge/-Vitepress-333333?style=flat&logo=vite)
 ![Nextra](https://img.shields.io/badge/-Nextra-333333?style=flat&logo=nextra)
 
@@ -47,5 +47,5 @@
 <h3>Contact Me</h3>
 
 [![Linkedin](https://img.shields.io/badge/-PHAredes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phredes/)](https://www.linkedin.com/in/phredes/)
-[![Outlook Badge](https://img.shields.io/badge/-pedro.aredes@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:pedro.aredes@hotmail.com)](mailto:pedro.aredes@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-pedro.aredes@hotmail.com-006bed?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:pedro.aredes@hotmail.com)](mailto:pedro.aredes@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/PHAredes?label=follow&style=social)](https://github.com/PHAredes)
