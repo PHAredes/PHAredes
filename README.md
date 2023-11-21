@@ -47,5 +47,5 @@
 <h3>Contact Me</h3>
 
 [![Linkedin](https://img.shields.io/badge/-PHAredes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phredes/)](https://www.linkedin.com/in/phredes/)
-[![Outlook Badge](https://img.shields.io/badge/-pedro.aredes@gmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:pedro.aredes@hotmail.com)](mailto:pedro.aredes@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-pedro.aredes@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:pedro.aredes@hotmail.com)](mailto:pedro.aredes@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/PHAredes?label=follow&style=social)](https://github.com/PHAredes)
