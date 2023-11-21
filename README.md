@@ -5,7 +5,7 @@
 
 ---
 
-<h3>Skills</h3>
+### Skills
 
 **Langs and data**
 
@@ -45,13 +45,7 @@
 ![Vitepress](https://img.shields.io/badge/-Vitepress-333333?style=flat&logo=vite)
 ![Nextra](https://img.shields.io/badge/-Nextra-333333?style=flat&logo=nextra)
 
-<br/>
-
-<a href="https://github.com/PHAredes" title="PHAredes Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHAredes&theme=dracula&show_icons=true" />
-</a>
-
-<h3>Contact Me</h3>
+### Contact Me
 
 [![Linkedin](https://img.shields.io/badge/-PHAredes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phredes/)](https://www.linkedin.com/in/phredes/)
 [![Outlook Badge](https://img.shields.io/badge/-pedro.aredes@hotmail.com-006bed?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:pedro.aredes@hotmail.com)](mailto:pedro.aredes@hotmail.com)
