@@ -34,7 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Intellij IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Mermaid](https://img.shields.io/badge/-Mermaid-333333?style=flat&logo=mermaid)
+![Static Badge](https://img.shields.io/badge/Mermaid%2C%20mermaid)
 ![Vitepress](https://img.shields.io/badge/-Vitepress-333333?style=flat&logo=vite)
 ![Nextra](https://img.shields.io/badge/-Nextra-333333?style=flat&logo=nextra)
 
