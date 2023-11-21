@@ -5,7 +5,7 @@
 
 ---
 
-<h3>Minhas Skills</h3>
+<h3>Skills</h3>
 
 **Langs and data**
 
@@ -15,9 +15,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-**Utilities**
+**Testing**
 
+![JUnit 5](https://img.shields.io/badge/-JUnit%205-333333?style=flat&logo=junit5)
+![Mockito](https://img.shields.io/badge/-Mockito%202-333333?style=flat&logo=mockito)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![RSpec](https://img.shields.io/badge/-RSpec-333333?style=flat&logo=ruby)
 
 **DevOps**
 
@@ -31,7 +34,9 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Intellij IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
-
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![GitHub-Flavored Markdown](https://img.shields.io/badge/-GitHub--Flavored%20Markdown-333333?style=flat&logo=github)
+![Vuepress](https://img.shields.io/badge/-Vuepress-333333?style=flat&logo=vuepress)
 
 <br/>
 
