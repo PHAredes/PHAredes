@@ -48,5 +48,6 @@
 ### Contact Me
 
 [![Linkedin](https://img.shields.io/badge/-PHAredes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phredes/)](https://www.linkedin.com/in/phredes/)
-[![Outlook Badge](https://img.shields.io/badge/-pedro.aredes@hotmail.com-006bed?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:pedro.aredes@hotmail.com)](mailto:pedro.aredes@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:pedro.aredes@hotmail.com)](mailto:pedro.aredes@hotmail.com)
+[![Discord Badge](https://img.shields.io/badge/-PHAredes-blue?style=flat-square&logo=discord&logoColor=white&link=https://www.linkedin.com/in/phredes/)](https://www.linkedin.com/in/phredes/)
 [![GitHub](https://img.shields.io/github/followers/PHAredes?label=follow&style=social)](https://github.com/PHAredes)
