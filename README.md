@@ -1,4 +1,4 @@
-<h2>💜 Hi, I'm **Pedro**!</h2>
+## 💜 Hi, I'm **Pedro**!
 
 - Back-end developer focused on solution (as I can't push Java/Spring into every stack).
 - 🔭 Right now working on [Blas2Guide](https://github.com/PHAredes/Blas2Guide).
