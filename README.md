@@ -36,7 +36,8 @@
 ![Intellij IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![GitHub-Flavored Markdown](https://img.shields.io/badge/-GitHub--Flavored%20Markdown-333333?style=flat&logo=github)
-![Vuepress](https://img.shields.io/badge/-Vuepress-333333?style=flat&logo=vuepress)
+![Vitepress](https://img.shields.io/badge/-Vitepress-333333?style=flat&logo=vite)
+![Nextra](https://img.shields.io/badge/-Nextra-333333?style=flat&logo=nextra)
 
 <br/>
 
