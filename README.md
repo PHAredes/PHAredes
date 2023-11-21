@@ -11,6 +11,7 @@
 
 ![Java](https://img.shields.io/badge/java-333333?style=flat&logo=openjdk)
 ![Ruby](https://img.shields.io/badge/-ruby-333333?style=flat&logo=ruby)
+![typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
