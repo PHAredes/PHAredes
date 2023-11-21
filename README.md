@@ -1,4 +1,4 @@
-<h2>💜 Hi, I'm <strong>{Pedro Arêdes}!</strong></h2>
+<h2>💜 Hi, I'm **Pedro**!</h2>
 
 - Back-end developer focused on solution (as I can't push Java/Spring into every stack).
 - 🔭 Right now working on [Blas2Guide](https://github.com/PHAredes/Blas2Guide).
@@ -9,7 +9,7 @@
 
 **Langs and data**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/java-333333?style=flat&logo=openjdk&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
