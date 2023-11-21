@@ -1,7 +1,7 @@
 ## 💜 Hi, I'm <strong>{Pedro Arêdes}!</strong>
 
-> Back-end developer focused on solution (as I can't push Java/Spring into every stack).
->🔭 Right now working on [Blas2Guide](https://github.com/PHAredes/Blas2Guide).
+- Back-end developer focused on solution (as I can't push Java/Spring into every stack).
+- 🔭 Right now working on [Blas2Guide](https://github.com/PHAredes/Blas2Guide).
 
 ---
 
@@ -18,6 +18,4 @@
 
 ## ⭐ Github stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PHAredes&show_icons=true)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PHAredes&theme=gruvbox&show_icons=true)
