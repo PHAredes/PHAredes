@@ -1,4 +1,4 @@
-## 💜 Hi, I'm **Pedro**!
+## 💜 Hi, I'm Pedro Arêdes!
 
 - Back-end developer focused on solution (as I can't push Java/Spring into every stack).
 - 🔭 Right now working on [Blas2Guide](https://github.com/PHAredes/Blas2Guide).
