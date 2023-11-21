@@ -17,6 +17,7 @@
 **Frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
 
 **Testing**
