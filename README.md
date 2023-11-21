@@ -1,6 +1,6 @@
 ## 💜 Hi, I'm Pedro Arêdes!
 
-- Back-end developer focused on solution (as I can't push Java/Spring into every stack).
+- 🤔 Back-end developer exploring new technologies (as I can't solve everything with Java/Spring).
 - 🔭 Right now working on [Blas2Guide](https://github.com/PHAredes/Blas2Guide).
 
 ---
@@ -35,7 +35,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
-**DevTools**: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+**DevTools**
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Intellij IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Mermaid](https://img.shields.io/badge/-Mermaid-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWVybWFpZDwvdGl0bGU+PHBhdGggZD0iTTIzLjk5IDIuMTE1QTEyLjIyMyAxMi4yMjMgMCAwIDAgMTIgMTAuMTQ5IDEyLjIyMyAxMi4yMjMgMCAwIDAgLjAxIDIuMTE1YTEyLjIzIDEyLjIzIDAgMCAwIDUuMzIgMTAuNjA0IDYuNTYyIDYuNTYyIDAgMCAxIDIuODQ1IDUuNDIzdjMuNzU0aDcuNjV2LTMuNzU0YTYuNTYxIDYuNTYxIDAgMCAxIDIuODQ0LTUuNDIzIDEyLjIyMyAxMi4yMjMgMCAwIDAgNS4zMi0xMC42MDRaIi8+PC9zdmc+)
