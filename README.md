@@ -20,7 +20,7 @@
 ![JUnit 5](https://img.shields.io/badge/-JUnit%205-333333?style=flat&logo=junit5)
 ![Mockito](https://img.shields.io/badge/-Mockito-333333?style=flat&logo=mockito)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![RSpec](https://img.shields.io/badge/-RSpec-333333?style=flat&logo=rspec)
+![RSpec](https://img.shields.io/badge/-RSpec-333333?style=flat&logo=rubygems)
 
 **DevOps**
 
