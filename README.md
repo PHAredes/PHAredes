@@ -15,7 +15,9 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
 
 **Frameworks**
+
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
 
 **Testing**
 
