@@ -25,7 +25,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![RSpec](https://img.shields.io/badge/-RSpec-333333?style=flat&logo=rubygems)
 ![Bruno](https://img.shields.io/badge/-Bruno-333333?style=flat&logo="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png")
-![Artillery.io](https://img.shields.io/badge/-Artillery.io-333333?style=flat)
+![Artillery.io](https://img.shields.io/badge/-Artillery.io-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMyIgdmlld0JveD0iMCAwIDEyMCAxMjMiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0wIDBIMTIwVjEyMi4yMDJIMFYwWiIgZmlsbD0iIzE2MTYxNiIvPgo8cGF0aCBkPSJNNzAuODk0NSA2Ny42NjI0TDU1LjQ1MzMgNTIuODI5N0w0My4xODEgNTcuODgxN0wzNy4zMTc2IDUyLjI0OTNMOTEuMjg1NSAzMC4zOTU3TDcyLjM4MTUgODUuOTMxNUw2Ni40MjQ2IDgwLjIwOTNMNzAuODk0NSA2Ny42NjI0Wk03My40OTU3IDYwLjMyNjJMNzkuNzAyMiA0Mi43MTFMNjIuNTM5NyA0OS44MDE5TDczLjQ5NTcgNjAuMzI2MloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik01NC40NTU1IDU0LjM4OThMNzAuMDE0NCA2OS4zMzU2TDgzLjMxMDEgNTQuOTgwOUw4OC43NTMzIDYwLjIwOTdMNTQuNzY1OCA5Ni45MDQzTDQ5LjMyMjUgOTEuNjc1NUw2NS4xOTM2IDc0LjU0MDNMNDkuNjM0NyA1OS41OTQ1TDMzLjc2MzYgNzYuNzI5OEwyOC4zMjAzIDcxLjUwMUw2Mi4zMDc5IDM0LjgwNjRMNjcuNzUxMSA0MC4wMzUyTDU0LjQ1NTUgNTQuMzg5OFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)
 
 **DevOps**
 
