@@ -10,6 +10,8 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![MySQL](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 
 **Frameworks**
 
