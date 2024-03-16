@@ -1,4 +1,4 @@
-- 🤔 Back-end developer exploring new technologies (as I can't solve everything with Java/Spring).
+- 🤔 I'm a software developer bagging my head against [PLFA](https://plfa.github.io/).
 - 🔭 Right now working on [Blas2Guide](https://github.com/PHAredes/Blas2Guide).
 
 ---
