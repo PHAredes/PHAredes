@@ -1,4 +1,4 @@
-- 🤔 I'm a software developer bagging my head against [PLFA](https://plfa.github.io/).
+- 🤔 I'm a software developer banging my head against [PLFA](https://plfa.github.io/).
 - 🔭 Right now working on [Blas2Guide](https://github.com/PHAredes/Blas2Guide).
 
 ---
