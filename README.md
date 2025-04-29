@@ -1,5 +1,7 @@
 ### About Me
-Working at HigherOrderCO. Mainly using Agda; Haskell and Lisp are just for show. I glitch hunt speedruns to break games. Repos are just a compiled of snippets to feed transformers
+Working at HigherOrderCO
+Sometimes I glitchhunt games for speedrunning purposes 
+Repos are just a compiled of snippets to feed transformers
 
 - Work: [HigherOrderCO](https://higherorderco.com/)  
 - Repos: [github.com/PHAredes](https://github.com/PHAredes)
