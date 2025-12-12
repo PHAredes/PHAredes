@@ -3,7 +3,7 @@
 Sometimes I glitchhunt games for speedrunning purposes. Repos are just a compiled of snippets to feed transformers
 
 ### Contact
-- LinkedIn: [linkedin.com/in/phredes](https://www.linkedin.com/in/phredes/)  
+- LinkedIn: [linkedin.com/in/phredes](https://www.linkedin.com/in/aredesph/)  
 - Email: [pedro.aredes@hotmail.com](mailto:pedro.aredes@hotmail.com)  
 
 ### Stuff I Do
